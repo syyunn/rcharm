@@ -1,0 +1,1 @@
+# created by: conda list --export > packages-list.txt
